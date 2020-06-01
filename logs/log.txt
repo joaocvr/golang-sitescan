@@ -1,0 +1,36 @@
+[06/01/2020 - 07:16:37] The access on the site https://www.bb.com.br was done with success. Status code 200
+[06/01/2020 - 07:16:37] The access on the site https://g1.globo.com was done with success. Status code 200
+[06/01/2020 - 07:16:38] The access on the site https://random-status-code.herokuapp.com was unsuccessfull. Status code: 501
+[06/01/2020 - 07:16:38] The access on the site aaaaaaaaaaa was unsuccessfull. Status code: 0
+[06/01/2020 - 07:16:44] The access on the site https://www.bb.com.br was done with success. Status code 200
+[06/01/2020 - 07:16:44] The access on the site https://g1.globo.com was done with success. Status code 200
+[06/01/2020 - 07:16:45] The access on the site https://random-status-code.herokuapp.com was done with success. Status code 200
+[06/01/2020 - 07:16:45] The access on the site aaaaaaaaaaa was unsuccessfull. Status code: 0
+[06/01/2020 - 07:16:50] The access on the site https://www.bb.com.br was done with success. Status code 200
+[06/01/2020 - 07:16:50] The access on the site https://g1.globo.com was done with success. Status code 200
+[06/01/2020 - 07:16:51] The access on the site https://random-status-code.herokuapp.com was done with success. Status code 200
+[06/01/2020 - 07:16:51] The access on the site aaaaaaaaaaa was unsuccessfull. Status code: 0
+[06/01/2020 - 07:34:54] The access on the site https://www.bb.com.br was done with success. Status code 200
+[06/01/2020 - 07:34:54] The access on the site https://g1.globo.com was done with success. Status code 200
+[06/01/2020 - 07:34:55] The access on the site https://random-status-code.herokuapp.com was done with success. Status code 200
+[06/01/2020 - 07:34:55] The access on the site aaaaaaaaaaa was unsuccessfull. Status code: 0
+[06/01/2020 - 07:35:01] The access on the site https://www.bb.com.br was done with success. Status code 200
+[06/01/2020 - 07:35:01] The access on the site https://g1.globo.com was done with success. Status code 200
+[06/01/2020 - 07:35:01] The access on the site https://random-status-code.herokuapp.com was done with success. Status code 200
+[06/01/2020 - 07:35:01] The access on the site aaaaaaaaaaa was unsuccessfull. Status code: 0
+[06/01/2020 - 07:35:07] The access on the site https://www.bb.com.br was done with success. Status code 200
+[06/01/2020 - 07:35:07] The access on the site https://g1.globo.com was done with success. Status code 200
+[06/01/2020 - 07:35:08] The access on the site https://random-status-code.herokuapp.com was done with success. Status code 200
+[06/01/2020 - 07:35:08] The access on the site aaaaaaaaaaa was unsuccessfull. Status code: 0
+[06/01/2020 - 07:38:11] The access on the site https://www.bb.com.br was done with success. Status code 200
+[06/01/2020 - 07:38:11] The access on the site https://g1.globo.com was done with success. Status code 200
+[06/01/2020 - 07:38:12] The access on the site https://random-status-code.herokuapp.com was done with success. Status code 200
+[06/01/2020 - 07:38:12] The access on the site aaaaaaaaaaa was unsuccessfull. Status code: 0
+[06/01/2020 - 07:38:18] The access on the site https://www.bb.com.br was done with success. Status code 200
+[06/01/2020 - 07:38:18] The access on the site https://g1.globo.com was done with success. Status code 200
+[06/01/2020 - 07:38:18] The access on the site https://random-status-code.herokuapp.com was done with success. Status code 200
+[06/01/2020 - 07:38:18] The access on the site aaaaaaaaaaa was unsuccessfull. Status code: 0
+[06/01/2020 - 07:38:24] The access on the site https://www.bb.com.br was done with success. Status code 200
+[06/01/2020 - 07:38:24] The access on the site https://g1.globo.com was done with success. Status code 200
+[06/01/2020 - 07:38:25] The access on the site https://random-status-code.herokuapp.com was unsuccessfull. Status code: 403
+[06/01/2020 - 07:38:25] The access on the site aaaaaaaaaaa was unsuccessfull. Status code: 0
